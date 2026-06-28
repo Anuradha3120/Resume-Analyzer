@@ -46,3 +46,4 @@ Career guidance tools
 ## How to Run the Project
 Use the following command to run application:
 1] python -m streamlit run app.py
+<img width="1920" height="1080" alt="Screenshot 2026-06-28 141912" src="https://github.com/user-attachments/assets/291d42e5-a2f7-41fc-ad19-3240abd95ec3" />
